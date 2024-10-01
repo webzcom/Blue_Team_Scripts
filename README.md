@@ -8,5 +8,5 @@ Initally my focus will be on Windows servers but will be adding Linux server res
 ---
 ## Windows Server Scripts
 ---
-- Get-Failed-Logins-Add-To-Firewall-Rule.vbs
-- -Gets all the IP addresses from failed login attempts, event 4625, and adds them to a specific firewall rule.
+### Get-Failed-Logins-Add-To-Firewall-Rule.vbs
+ - Collects all the IP addresses from failed login attempt, event 4625, and adds them to a specific firewall rule automatically.
